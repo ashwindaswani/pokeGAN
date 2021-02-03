@@ -1,2 +1,1 @@
-# subtitiles_syncing
-Syncing audio and subtitles
+Generating pokemon using DCGANs
